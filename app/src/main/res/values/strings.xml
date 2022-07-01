@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNavigatacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Fragment_Inicio">Fragment Inicio</string>
+    <string name="Fragment_1">Fragment 1</string>
+    <string name="Fragment_2">Fragment 2</string>
+    <string name="uno">1 </string>
+    <string name="Dos">2 </string>
+    <string name="Atras">Atras </string>
+    <string name="contador">Contador</string>
+</resources>
